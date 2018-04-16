@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+  height: 300px;
+  width: 400px;
+  margin: 20px;
+  border: 5px dashed #99c;
+  line-height: 300px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 2em;
+  color: #99c;
+}
+
+main.drag {
+  background-color: #eef;
+}
